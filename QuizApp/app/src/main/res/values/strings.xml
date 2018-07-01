@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">Quiz</string>
+
+
+
+    <string name="question1">1. Who is the CEO of Tesla?</string>
+
+    <string name="question1_choice1">Mark ZuckerBerg</string>
+
+    <string name="question1_choice2">Bill Gates</string>
+
+    <string name="question1_choice3">Elon Musk</string>
+
+    <string name="question2">2. Who is the President of India?</string>
+
+    <string name="question2_choice1">Pranab Mukherji</string>
+
+    <string name="question2_choice2">Ramnath Kovind</string>
+
+    <string name="question2_choice3">A P J Abdul Kalam</string>
+
+    <string name="question3">3. What is 2^10?</string>
+
+    <string name="question3_choice1">2048</string>
+
+    <string name="question3_choice2">1048</string>
+
+    <string name="question3_choice3">1024</string>
+
+    <string name="question4">4.Where is Amritapuri?</string>
+
+    <string name="question4_choice1">Kollam</string>
+
+    <string name="question4_choice2">Thiruvananthapuram</string>
+
+    <string name="question4_choice3">Ernakulam</string>
+
+    <string name="question5">5.How was the quiz?</string>
+
+    <string name="question5_choice1">Very Bad</string>
+
+    <string name="question5_choice2">Wow Awesome</string>
+
+    <string name="question5_choice3">Average</string>
+
+
+
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+
+
+
+</resources>
